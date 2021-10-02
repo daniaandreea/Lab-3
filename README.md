@@ -7,7 +7,7 @@ Predați rezolvările în săptămâna 3 într-un fișier `main.py` comis în re
 Scrieți un program care determină cea mai lungă subsecvență cu o anumită proprietate a unei liste de numere. Fiecare student primește două proprietăți: prima dintre 1-10, a doua dintre 11-20.
 
 Rezolvați problema folosind: 
--	Minim două funcții: una pentru calcule, specificată și testată cu assert, și alta care citește, afișează și apelează funcția pentru calcule. Nu aveți voie să folosiți cod în afara unei funcții.  
+-	Minim trei funcții: una pentru calcule, specificată, o funcție de test cu assert pentru cea de calcul și alta care citește, afișează și apelează funcția pentru calcule. Nu aveți voie să folosiți cod în afara unei funcții: fără variabile globale.  
 -	O interfață cu utilizatorul care are un meniu de genul:
 1. Citire date.
 2. Determinare cea mai lungă subsecvență cu proprietatea 1.
