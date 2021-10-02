@@ -4,7 +4,7 @@ Instalați PyCharm sau alt editor.
 
 Predați rezolvările în săptămâna 3 într-un fișier `main.py` comis în repository-ul vostru.
 
-Scrieți un program care determină cea mai lungă subsecvență cu o anumită proprietate a unei liste de numere. Fiecare student primește două proprietăți: prima dintre 1-10, a doua dintre 11-20.
+Scrieți un program care determină cea mai lungă subsecvență cu o anumită proprietate a unei liste de numere. Fiecare student primește două proprietăți: prima dintre `1-10`, a doua dintre `11-20`.
 
 Rezolvați problema folosind: 
 -	Minim trei funcții: una pentru calcule, specificată, o funcție de test cu assert pentru cea de calcul și alta care citește, afișează și apelează funcția pentru calcule. Nu aveți voie să folosiți cod în afara unei funcții: fără variabile globale.  
