@@ -31,7 +31,7 @@ def is_prime(num):
         if num % d == 0:
             return False
         d += 1
-    return True
+    return True 
 
 
 def test_is_prime():
